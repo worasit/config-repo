@@ -14,7 +14,7 @@ server:
 debug: true
 
 message:
-  welcome: Welcome to the configuration server
+  welcome: Welcome to the configuration server xx
 ---
 spring:
   profiles: prod
